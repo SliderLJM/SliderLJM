@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sliderljm" alt="sliderljm" /></a> </p>
 
-- 🔭 I’m currently working on **A Discord Bot.**
+- 🔭 I’m currently working on **Sharpening my programming skills.**
 
 - 🌱 I’m currently learning **HTML5, CSS, JS, Python, Coffee Script, Vue, and more.**
 
